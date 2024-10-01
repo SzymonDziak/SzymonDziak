@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**SzymonDziak/SzymonDziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tbody>
+<td align="center">
+<img width="500" height="0" /><br>
+  <samp>Twitter ▪ <a href="https://twitter.com/SzymonDziak">@SzymonDziak</a></samp><br>
+<samp>Personal Site ▪ <a href="https://app369.com">app369.com</a></samp><br>
+  <samp>#1 CRM for Start-ups and Freelancers ▪ <a href="https://workspace369.com">workspace369.com</a></samp><br>
+    <samp>Flutter Template ▪ <a href="https://workspace369.com">template369.com</a></samp><br>
+<sub>Consider  <a href="https://github.com/sponsors/szymondziak">sponsoring</a> me if you like my work 💖</sub><br>
+<img width="750" height="0" />
+</td>
+</tbody>
+</table>
