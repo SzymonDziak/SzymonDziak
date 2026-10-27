@@ -26,7 +26,7 @@ Flutter and full-stack developer in Miami. I run the app studio **App369** and b
     <td width="64" align="center"><a href="https://app369.com"><img src="assets/app369.png" width="56" height="56" alt="App369" /></a></td>
     <td>
       <a href="https://app369.com"><b>App369</b></a><br>
-      App development studio in Miami. 150+ apps shipped since 2018, mostly Flutter, with a full-stack back end.
+      App development studio in Miami. 21 projects shipped since 2020, mostly Flutter, with a full-stack back end.
     </td>
   </tr>
   <tr>
