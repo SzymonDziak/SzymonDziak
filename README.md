@@ -30,13 +30,6 @@ Flutter and full-stack developer in Miami. I run the app studio **App369** and b
     </td>
   </tr>
   <tr>
-    <td width="64" align="center"><a href="https://template369.com"><img src="assets/template369.png" width="56" height="56" alt="Template369" /></a></td>
-    <td>
-      <a href="https://template369.com"><b>Template369</b></a><br>
-      Flutter starter kit with auth, payments and subscriptions already wired up, so a new app starts at the product, not the plumbing.
-    </td>
-  </tr>
-  <tr>
     <td width="64" align="center"><a href="https://simondziak.com"><img src="assets/simondziak.svg" width="56" height="56" alt="simondziak.com" /></a></td>
     <td>
       <a href="https://simondziak.com"><b>simondziak.com</b></a><br>
