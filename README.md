@@ -40,7 +40,7 @@ Flutter and full-stack developer in Miami. I run the app studio **App369** and b
     <td width="64" align="center"><a href="https://simondziak.com"><img src="assets/simondziak.svg" width="56" height="56" alt="simondziak.com" /></a></td>
     <td>
       <a href="https://simondziak.com"><b>simondziak.com</b></a><br>
-      My site: projects, writing, and <a href="https://simondziak.com/log">a weekly log</a> of what my AI agents shipped.
+      My site: projects, writing and notes on how I work with AI agents.
     </td>
   </tr>
 </table>
