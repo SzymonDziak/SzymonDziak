@@ -4,7 +4,7 @@
 
 # Simon (Szymon) Dziak
 
-Flutter and full-stack developer in Miami. I run the app studio **App369** and build **Workspace369**, with a team of AI coding agents doing most of the hands-on work.
+Flutter and full-stack developer in Miami. I run the app studio **App369**, where I fix and finish apps for small businesses, and I build **Workspace369**.
 
 [simondziak.com](https://simondziak.com) · [X](https://x.com/SzymonDziak) · [LinkedIn](https://www.linkedin.com/in/szymondziak/) · [YouTube](https://www.youtube.com/@SzymonDziak) · [Instagram](https://www.instagram.com/szymondziak/)
 
@@ -38,7 +38,6 @@ Flutter and full-stack developer in Miami. I run the app studio **App369** and b
   </tr>
 </table>
 
-## How I work
+## What I work with
 
 - **Stack:** Flutter and Dart, TypeScript and Node.js, Firebase and Google Cloud, Stripe.
-- **Agents:** a team of Claude Code agents, each in its own lane and its own git worktree, with a shared memory and a second agent reviewing anything public.
